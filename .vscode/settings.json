@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "yapf",
+     "editor.fontFamily": "'Jameel Noori Nastaleeq Kasheeda', 'fallback font', sans-serif"
+}
