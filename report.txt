@@ -1,0 +1,20 @@
+Question 1:
+
+I take a sentence and pass it onto my function that segments it
+
+The approach is that:
+
+I keep a track of index where I am standing in a sentence 
+I keep matching that with every word in the dictionary 
+If ( no match )
+    I append the char and move index +=1 
+If ( there are matches)
+    I get the max out of them in a temp List 
+    move index += len ( maxMatch)
+I keep on doing this for every sentence then I eventually
+write them up in a file
+
+Question 2:
+
+The corpus is a test corpus that I borrowed from my friend containing
+23k+ words 
